@@ -1,6 +1,6 @@
 /***********************************************************************/
 /*                                                                     */
-/*  FILE        :MusicGame.c                                           */
+/*  FILE        :Rhythms.c                                           */
 /*  DATE        :Fri, May 24, 2019                                     */
 /*  DESCRIPTION :Main Program                                          */
 /*  CPU TYPE    :RX62T                                                 */
@@ -367,11 +367,11 @@ void main(void)
 		// display mode
 		switch (mode)
 		{
-		// ¿ïÃö
+		// Â¿Ã¯ÃƒÃ¶
 		case 0:
 			drawChsMenu();
 			break;
-		// ­Ë¼Æ
+		// Â­Ã‹Â¼Ã†
 		case 1:
 			drawRecip();
 			break;
